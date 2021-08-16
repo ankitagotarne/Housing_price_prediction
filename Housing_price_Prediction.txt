@@ -1,0 +1,7 @@
+Linear Regression Housing Price Prediction
+
+Work Done:-
+1) Analysis data
+2) Split data into training and testing part
+3) Applied linear regression
+4) Achieved 91.65% accuracy.
